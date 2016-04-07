@@ -1,5 +1,4 @@
 (function() {
-/*
 var app = angular.module('todoServices', ['ngRoute', 'ngResource', 'todoRoutes']);
 
 // Todos Service +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -8,5 +7,4 @@ var app = angular.module('todoServices', ['ngRoute', 'ngResource', 'todoRoutes']
             'update': { method: 'PUT' }
         });
     }]);
-*/   
 })(); // end of closure

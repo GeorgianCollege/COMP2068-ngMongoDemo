@@ -1,5 +1,4 @@
 (function() {
-    /*
     var moduleName = "todoRoutes";
     var app = angular.module(moduleName, ['ngRoute', 'ngResource']);
 
@@ -15,6 +14,5 @@
                 controller: 'TodoDetailController'
             });
     }]);
-    */
 
 })(); // end of closure

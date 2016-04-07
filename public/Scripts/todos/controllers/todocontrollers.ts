@@ -1,5 +1,4 @@
 (function() {
-    /*
     var moduleName = "todoControllers";
     var app = angular.module(moduleName, ['ngRoute', 'ngResource', 'todoServices', 'todoRoutes']);
 
@@ -104,5 +103,4 @@
                 $location.url('/');
             }
         }]); // end TodoDetailController
-    */
 })(); //end of closure
